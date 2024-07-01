@@ -11,6 +11,7 @@ i did this session during school time in a free period i had, i made a thing whe
 
 **session 3:** https://hackclub.slack.com/archives/C06SBHMQU8G/p1719814792149569
 i made a hole in the chute and tried to extend/make the chute better, i was able to get the bottom of the chute done but didn't really know how to connect it and loft wasn't entirely working 
+
 **session 4:** https://hackclub.slack.com/archives/C06SBHMQU8G/p1719819362606659
 after a while of trying to figure out what was wrong and why loft wasn't working, i decided to cut out the curves (circled in red)
 ![image](https://github.com/mtdapiggle/marble-run-thing/assets/174234024/6dc980d3-e2c9-4705-944b-9faf14184243)
