@@ -1,6 +1,7 @@
 # marble-run-thing
 i wanted to learn CAD, didn't know what i wanted to make so i guess i decided on this
 i also didn't read the bit about needing a github repo and STEP file exports + onshape link so uh... that's my bad
+i also forgot to add my onshape link, so here it is! https://cad.onshape.com/documents/6775d66129ffc58f7396ec51/w/03b11f099dcbbd50d9e0f05e/e/6ea6d18276b03266ed36c889
 
 **session 1:** https://hackclub.slack.com/archives/C06SBHMQU8G/p1719739734958409
 ![image](https://github.com/mtdapiggle/marble-run-thing/assets/174234024/7279b1b8-024e-407b-a0c3-78d0d59c7808)
