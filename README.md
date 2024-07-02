@@ -24,3 +24,11 @@ after selecting the sides first: ![image](https://github.com/mtdapiggle/marble-r
 after realising that i just needed to select one side before the other (i got rid of 1 sketch and 2 lofts): ![image](https://github.com/mtdapiggle/marble-run-thing/assets/174234024/7a29f5c1-f729-4aed-8cd6-44911bee97a2)
 i am much, much more pleased with the result, words cannot describe how happy i am after being able to get the result that i wanted. (i didn't expect to spend 3 hours on this bit) although, as a perfectionist i can't live without it being fully tangent with a fillet, so i filleted it. 
 i also started on working on a chicane part of the marble run.
+
+**session 6:** https://hackclub.slack.com/archives/C06SBHMQU8G/p1719905241795599 
+the chicane was much harder than i thought, the spline tool was confusing and i eventually had to search up how to get out of the spline tool (which was double clicking the end point) then i thought that i shouldn't use the spline tool, since i thought that i could only move the curves through the points, but then i found  out that i could dimension the points on the spline. when i used the sweep tool, it didn't work. i got confused on what was wrong
+
+**session 7:** 
+i realised that when i used the sweep tool, some of the red shapes collided with each other (image added to help explain, red shapes colliding highlighted in blue) ![image](https://github.com/mtdapiggle/marble-run-thing/assets/174234024/ea3b38c7-cd1e-4310-81cb-28d4583c4750)
+so i had to change the sketch and make the dimensions longer, and it worked so that's cool.
+next, i started work on a way to make everything modular/you can connect them sort of like lego, not sure how i can do this considering that i had already cadded a bunch of stuff up without making it modular, so it could cause problems.
