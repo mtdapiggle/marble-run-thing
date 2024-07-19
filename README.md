@@ -85,4 +85,4 @@ also i accidentally reloaded onshape, and it took me a long while to open up the
 ![image](https://github.com/user-attachments/assets/4ae96af2-5f9a-422b-8688-e49eb9044fa8)
 kjsadkjfa;kjfas;k djjdlkjk;kjlajjd;kjlpiuoweji t twqqipuwtunvuvqiwempoc AHHHHHHHHHHHHHHHHHHHHHHH (it's been like this for 6 straight minutes please help)
 ![image](https://github.com/user-attachments/assets/4716d47f-82f6-4a88-9c0a-932defb3c293)
-it's been like this for like 20 minutes now
+it's been like this for like 20 minutes now, i reloaded onshape but that made it worse
