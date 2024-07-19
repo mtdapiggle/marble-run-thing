@@ -86,3 +86,6 @@ also i accidentally reloaded onshape, and it took me a long while to open up the
 kjsadkjfa;kjfas;k djjdlkjk;kjlajjd;kjlpiuoweji t twqqipuwtunvuvqiwempoc AHHHHHHHHHHHHHHHHHHHHHHH (it's been like this for 6 straight minutes please help)
 ![image](https://github.com/user-attachments/assets/4716d47f-82f6-4a88-9c0a-932defb3c293)
 it's been like this for like 20 minutes now, i reloaded onshape but that made it worse
+
+**between session 10 and 11**
+i... just checked the arcade constitution and found out that i didn't have to add my cad files after every single hour... HAF;DSJFKJSADLKGDHKJSAHGKJASHD;FJLKSAFSA;AS;FJSA;LKFJDSALK;FJ;ADSJFAS;LDFAJSDF;LKS (painful keyboadr smashing (i didn't actually smash my keyboard))
