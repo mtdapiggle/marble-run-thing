@@ -34,3 +34,31 @@ the chicane was much harder than i thought, the spline tool was confusing and i 
 i realised that when i used the sweep tool, some of the red shapes collided with each other (image added to help explain, red shapes colliding highlighted in blue) ![image](https://github.com/mtdapiggle/marble-run-thing/assets/174234024/ea3b38c7-cd1e-4310-81cb-28d4583c4750)
 so i had to change the sketch and make the dimensions longer, and it worked so that's cool.
 next, i started work on a way to make everything modular/you can connect them sort of like lego, not sure how i can do this considering that i had already cadded a bunch of stuff up without making it modular, so it could cause problems. i also didn't really know how to make them modular/connect, i was thinking of using slots and a pin or a bolt of some kind to link them together, but the bolt could slide out, so either i could make a way to lock the bolt/pin/cylinder in or i could think of another way to do it
+
+**session 8:** 
+i had a 2 week hiatus from hack club, during that 2 weeks i thought about ways to make it modular. 
+![image](https://github.com/user-attachments/assets/75ae78b9-767c-46c4-9b62-c55b57934df2)
+i decided to make slots that would fit into the other pieces. then i realised that i would have to cad these slots and the areas that they would fit in on every single piece, which i didn't want to do because i was lazy, but i had to do it because i had no other choice. there probably is a way that i could've done to make it more efficient. i then tried to make the hole so that i could fit a pin through the slots. then i realised that the slots were much too small and the diameter of the pin could be at most 3 mm. i decided to enlarge the entire track so i would have more space to make the slots bigger. 
+![image](https://github.com/user-attachments/assets/911ccf47-0693-47e0-8cf8-7be7f0c8364b)
+this caused many problems down the track, as the curvy chicane thing (which i don't think is a chicane but i'm not sure) broke and the cone also broke. 
+![image](https://github.com/user-attachments/assets/0a2b8688-21f0-42ca-b8b4-1614e992a524)
+i had to fix the loft and the circle that i had used to cut a hole in the cone
+![image](https://github.com/user-attachments/assets/fd2152d3-7d7c-400f-980e-4b857183d888)
+the circle looked a bit small, then i realised that i  hadn't adjusted it to the correct size, since i made the marble track larger. i corrected this and it's fine now. i also realised that i didn't really like how the sweep sort of stuck out from the back, so i made the area that i was going to sweep smaller
+![image](https://github.com/user-attachments/assets/21112197-7c0f-48c1-ac68-d3a5a9eeac87)
+then i realised that i shouldn't have done that, and it looks much worse now. 
+![image](https://github.com/user-attachments/assets/d5c156d9-110c-4a5b-9199-a966ee5cd17a)
+i used loft to try and fix it but it looks even worse somehow
+![image](https://github.com/user-attachments/assets/87741bf1-32d6-45cf-a231-128c113493a9)
+then i realised that i probably should use loft in some other way to pull it off. i extended the plane that i used to draw the cone to give me more space to use loft which caused a couple of problems, so i fixed them and pushed the sweep path guiding line further away from the spiral. 
+![image](https://github.com/user-attachments/assets/b6f8c165-a96f-4723-b846-e4ed685c2073)
+it broke. really badly.
+![image](https://github.com/user-attachments/assets/d54e5927-6d4c-4465-bb98-f79bd5b94a4b)
+i think the reason behind it was because sweep didn't work how i thought it worked. sweep starts at the face of the object and you can't offset it unlike extrudes or other things, so i had to create another plane and offset it. i had to add a line at the top so it became a shape
+![image](https://github.com/user-attachments/assets/9f3a5b89-64a4-447f-82be-59853c032376)
+i forgot to add the circle so it became a solid block. then i ran into the problem of the loft not working (the loft for the cone), it was an easy fix though
+![image](https://github.com/user-attachments/assets/379a73f8-acf8-4458-8902-bec198bc1d39)
+i realised that i wanted more space between the spiral and the cone so i extended it again, but i ended up with too little space for the cone so i had to push the cone's plane back by 12.5mm
+![image](https://github.com/user-attachments/assets/b3f52123-508b-4ae5-b0dc-eec978b0ff50)
+probably not what i wanted.... (it's definitely not what i want)
+
