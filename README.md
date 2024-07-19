@@ -69,3 +69,20 @@ i then put a loft between 2 faces (circled in black) to make it look better, it 
 then i moved back to the slots. i realised whilst exporting all of the stl and step files, i could simply just combine two parts in the assembly area and export them together as one piece, meaning that i could possibly make a section or a part, put them into assembly and fasten them together. (i probably didn't explain this very well, but i'll put some pictures to help.)
 ![image](https://github.com/user-attachments/assets/7436b444-066f-49df-9687-b01b3b3bcdfd)
 there are 2 sections/parts in different colours. then i realised that i didn't change the size of the slots. i expanded the size of the slots to  be 10mm tall and 5mm wide, then i thought that it might be too big, i also added some tolerances onto the slots to help them fit. i tried to make a hole for the slots then realised that it'd still be too small,  but i didn't want to make the slots bigger again, so i thought about it for 10 minutes straight and decided to make rectangular holes instead, so it hopefully might be more secure as well. i wasn't sure on how much tolerance i needed, since i wanted it to be a press fit. i spent the rest of my time doing a bit of research on tolerances, and wasn't able to finish the slots.
+
+**session 10:**
+i started this session off by realising how many hours per day i would need to put in to get what i wanted, and suffice to say, it isn't efficient for me to keep on doing this marble run stuff because i'd  have to make design decisions, and i'd rather cad an FRC robot so i won't have to make design decisions, but i'll try to finish this up and  have it in a semi workable state.
+
+i made the rectangular slots and the rectangle to go with it 
+![image](https://github.com/user-attachments/assets/aec93220-c026-46a3-bb3d-94ac4349dfa4)
+then i thought about how i wanted to mount the different parts.
+i attempted to make some sort of arm extending out of a cylinder
+![image](https://github.com/user-attachments/assets/6b3070c2-9fcd-4c50-b26b-aa9ed194fc0f)
+i tried to do something like this
+![image](https://github.com/user-attachments/assets/e688659e-1ee6-402f-8c88-2990474e10e8)
+then i changed it and the fillet tool stopped working for some reason, it said that the current fillet radius resulted in invalid geometry, which i think is fair, but i couldn't change the radius for some reason. (uh turns out, when i was trying to change the radius, i made it 9.8 instead of 0.8, i love typos (i did it like 10 times in a row))
+also i accidentally reloaded onshape, and it took me a long while to open up the sketch again
+![image](https://github.com/user-attachments/assets/4ae96af2-5f9a-422b-8688-e49eb9044fa8)
+kjsadkjfa;kjfas;k djjdlkjk;kjlajjd;kjlpiuoweji t twqqipuwtunvuvqiwempoc AHHHHHHHHHHHHHHHHHHHHHHH (it's been like this for 6 straight minutes please help)
+![image](https://github.com/user-attachments/assets/4716d47f-82f6-4a88-9c0a-932defb3c293)
+it's been like this for like 20 minutes now
