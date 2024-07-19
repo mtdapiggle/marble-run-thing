@@ -62,3 +62,10 @@ i realised that i wanted more space between the spiral and the cone so i extende
 ![image](https://github.com/user-attachments/assets/b3f52123-508b-4ae5-b0dc-eec978b0ff50)
 probably not what i wanted.... (it's definitely not what i want)
 
+**session 9:**
+i fixed the sketch/sweep path and it turns out fine now, i put a loft and now it looks like this:
+![image](https://github.com/user-attachments/assets/7d5207bd-87cd-4558-8162-270b6c81ed0b)
+i then put a loft between 2 faces (circled in black) to make it look better, it didn't turn out well so i just put a fillet.
+then i moved back to the slots. i realised whilst exporting all of the stl and step files, i could simply just combine two parts in the assembly area and export them together as one piece, meaning that i could possibly make a section or a part, put them into assembly and fasten them together. (i probably didn't explain this very well, but i'll put some pictures to help.)
+![image](https://github.com/user-attachments/assets/7436b444-066f-49df-9687-b01b3b3bcdfd)
+there are 2 sections/parts in different colours. then i realised that i didn't change the size of the slots. i expanded the size of the slots to  be 10mm tall and 5mm wide, then i thought that it might be too big, i also added some tolerances onto the slots to help them fit. i tried to make a hole for the slots then realised that it'd still be too small,  but i didn't want to make the slots bigger again, so i thought about it for 10 minutes straight and decided to make rectangular holes instead, so it hopefully might be more secure as well. i wasn't sure on how much tolerance i needed, since i wanted it to be a press fit. i spent the rest of my time doing a bit of research on tolerances, and wasn't able to finish the slots.
