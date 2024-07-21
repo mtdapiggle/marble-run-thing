@@ -122,3 +122,13 @@ it looked a bit weird since one half had straight edges whilst the other half wa
 it kinda looks like a frying pan.
 ![image](https://github.com/user-attachments/assets/fbb18040-c9be-4c04-94fe-d3478e24a1f9)
 i then made the straight track that can go downwards, but the spline just looked a bit off. either one it was my sleep deprivation or two it was real, but i could see some bumps in the spline and the track. i wasn't sure how to fix it and i wasn't even sure if i was seeing it correctly.
+
+**session 13:**
+i couldn't edit this for the first 20 or so minutes
+![image](https://github.com/user-attachments/assets/8a702b04-929e-4b22-8e19-7128fd411945)
+i basically ditched the spline for a straight line and some fillets. well, not really a straight line but 3.
+![image](https://github.com/user-attachments/assets/795ebc69-1946-4989-85b0-d7c93da2ac94)
+then i made a bunch of track that turns, 2 that do 180 degree turns and 2 that do 90 degree turns. i made 1 180 degree turn and 1 90 degree turn that goes up/down so you aren't restricted to the large slide/turn. 
+![image](https://github.com/user-attachments/assets/abdd4dab-446b-47c9-8645-1dc24381750e)
+i didn't know what i wanted to do for this, i kinda did everything i wanted to do with the marble run. there's all the pieces that you'd ever need, maybe there could be more to be honest but i don't have any ideas for more pieces of track, so i ended this session early and prepared to assemble all of the pieces together.
+(also, i will call the side with the slots/part that sticks out the "positive terminal" and the other side the "negative terminal")
