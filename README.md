@@ -132,3 +132,7 @@ then i made a bunch of track that turns, 2 that do 180 degree turns and 2 that d
 ![image](https://github.com/user-attachments/assets/abdd4dab-446b-47c9-8645-1dc24381750e)
 i didn't know what i wanted to do for this, i kinda did everything i wanted to do with the marble run. there's all the pieces that you'd ever need, maybe there could be more to be honest but i don't have any ideas for more pieces of track, so i ended this session early and prepared to assemble all of the pieces together.
 (also, i will call the side with the slots/part that sticks out the "positive terminal" and the other side the "negative terminal")
+
+**session 14 (last session?):**
+i was basically fastening all of the terminals to the marble track parts, i attempted to use replicate but it was kinda scuffed and didnt work, so i had to painstakingly fasten each and every single terminal to each piece. the worst part is, is that i had to double up on some parts, since some parts aren't symmetrical and that means you can't just flip them and make them fit. (e.g. you can't do positive to positive because it won't work/fit together)
+i also decided to make some small things like a marble, and a cap for the mounting pole, then i started exporting everything out and into the repo.
