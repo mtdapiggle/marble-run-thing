@@ -91,7 +91,7 @@ it's been like this for like 20 minutes now, i reloaded onshape but that made it
 i... just checked the arcade constitution and found out that i didn't have to add my cad files after every single hour... HAF;DSJFKJSADLKGDHKJSAHGKJASHD;FJLKSAFSA;AS;FJSA;LKFJDSALK;FJ;ADSJFAS;LDFAJSDF;LKS (painful keyboadr smashing (i didn't actually smash my keyboard))
 
 **session 11:**
-today i got the free arcade stickers in the mail, i got the github logo, theh 2nd sticker has the hack club mascot and the words "Arcade" and "Hack Club" the third one has the words "Hack Club" and some Japanese text, even though i'm taking Japanese as one of my classes, i'm only able to read basic hiragana and some rare katakana.
+today i got the free arcade stickers in the mail, i got the github logo, theh 2nd sticker has the hack club mascot and the words "Arcade" and "Hack Club" the third one has the words "Hack Club" and some Japanese text, even though i'm taking Japanese as one of my classes, i'm only able to read basic hiragana.
 i quickly finished up on the thing that holds the marble track pieces in the air, and decided to make some spacers so that you can stack the spacers to get to the desired height of the holder. i made them out of varying lengths, one being 25mm, 2nd one being 10mm and third being 5 mm. 
 ![image](https://github.com/user-attachments/assets/227508ee-03d2-427d-b55d-df79a89a2ced)
 i then decided to make a baseplate so you can put the poles into it. i also had to come up with a way to link the baseplates together, so i just opted for some kind of thing where you uh... idk how to explain, but pictures will definitely make it easier (english is indeed my first language but i'm kinda dumb) 
@@ -104,3 +104,21 @@ i decided to start assembly of a marble run using the parts i made in CAD.
 ![image](https://github.com/user-attachments/assets/6816b8e7-54b7-4b50-97e1-072365ec199f)
 i started off with the baseplate
 (session ended)
+
+**session 12:**
+i realised a major problem with the marble run track whilst trying to assemble the marble run. there was no way to go up or down with the pieces of the track since the slots were rectangular and even then, i still would have to make special pieces that can go downwards. i also realised that i had nothing to catch the marble at the end of the track.
+
+![image](https://github.com/user-attachments/assets/92b5f5ca-583d-49b2-aec2-096e8c276773)
+i started by making the cross-section of the catchment area and then using loft to create half of the catchment area.
+![image](https://github.com/user-attachments/assets/fe8ae42f-9b3e-44d4-9253-fbb6af66c237)
+![image](https://github.com/user-attachments/assets/35ccc7c1-a2ac-415e-b4c3-313f4084714a)
+the loft seemed fine until i realised that it wasn't symmetrical and i had no idea how to fix it, so i played around with some of the settings in the loft menu and the setting called "Connections" worked. 
+![image](https://github.com/user-attachments/assets/3f755850-37bb-4a7a-a949-543d7002d0eb)
+i had to draw a point so that i could make the loft work
+![image](https://github.com/user-attachments/assets/da6a1910-6be0-401c-a424-0bba4986006f)
+then i used revolve to create the other half of the catchment area. 
+it looked a bit weird since one half had straight edges whilst the other half was a semi circle, so i set the condition for the end profile to be normal to profile and it looks much better now.
+![image](https://github.com/user-attachments/assets/c5a034f2-76d8-495c-8edf-e202b4def19b)
+it kinda looks like a frying pan.
+![image](https://github.com/user-attachments/assets/fbb18040-c9be-4c04-94fe-d3478e24a1f9)
+i then made the straight track that can go downwards, but the spline just looked a bit off. either one it was my sleep deprivation or two it was real, but i could see some bumps in the spline and the track. i wasn't sure how to fix it and i wasn't even sure if i was seeing it correctly.
