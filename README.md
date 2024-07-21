@@ -89,3 +89,18 @@ it's been like this for like 20 minutes now, i reloaded onshape but that made it
 
 **between session 10 and 11**
 i... just checked the arcade constitution and found out that i didn't have to add my cad files after every single hour... HAF;DSJFKJSADLKGDHKJSAHGKJASHD;FJLKSAFSA;AS;FJSA;LKFJDSALK;FJ;ADSJFAS;LDFAJSDF;LKS (painful keyboadr smashing (i didn't actually smash my keyboard))
+
+**session 11:**
+today i got the free arcade stickers in the mail, i got the github logo, theh 2nd sticker has the hack club mascot and the words "Arcade" and "Hack Club" the third one has the words "Hack Club" and some Japanese text, even though i'm taking Japanese as one of my classes, i'm only able to read basic hiragana and some rare katakana.
+i quickly finished up on the thing that holds the marble track pieces in the air, and decided to make some spacers so that you can stack the spacers to get to the desired height of the holder. i made them out of varying lengths, one being 25mm, 2nd one being 10mm and third being 5 mm. 
+![image](https://github.com/user-attachments/assets/227508ee-03d2-427d-b55d-df79a89a2ced)
+i then decided to make a baseplate so you can put the poles into it. i also had to come up with a way to link the baseplates together, so i just opted for some kind of thing where you uh... idk how to explain, but pictures will definitely make it easier (english is indeed my first language but i'm kinda dumb) 
+![image](https://github.com/user-attachments/assets/d08f0cec-148d-4e9f-8e54-c103e54ab75f)
+this is the underside of the baseplate
+![image](https://github.com/user-attachments/assets/868cc8c0-c972-47e1-ab2b-328cbd0c3f5a)
+and this is the top.
+i kinda didn't know where i wanted to go with this project, so i spent the rest of the session thinking about what i wanted to do.
+i decided to start assembly of a marble run using the parts i made in CAD.
+![image](https://github.com/user-attachments/assets/6816b8e7-54b7-4b50-97e1-072365ec199f)
+i started off with the baseplate
+(session ended)
