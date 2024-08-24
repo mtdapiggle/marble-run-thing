@@ -1,4 +1,14 @@
 # marble-run-thing
+
+i cadded a marble run with different parts uh and it's modular and yeah. 
+
+
+
+
+
+
+
+
 i wanted to learn CAD, didn't know what i wanted to make so i guess i decided on this
 i also didn't read the bit about needing a github repo and STEP file exports + onshape link so uh... that's my bad (also i just realised i needed both STEP and STL files so uh... and i also found out through the arcade constitution (after session 7) that i have to upload the new STEP and STL files every hour/session, also what's a commit link??)
 onshape link:
